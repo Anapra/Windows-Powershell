@@ -1,0 +1,137 @@
+[
+  {
+    "Name": "Weather",
+    "PackageName": "Microsoft.BingWeather",
+    "Description": "Weather information app",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Xbox",
+    "PackageName": "Microsoft.XboxApp",
+    "Description": "Xbox gaming companion app",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Xbox Game Bar",
+    "PackageName": "Microsoft.XboxGamingOverlay",
+    "Description": "Xbox gaming overlay for PC games",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Xbox Identity Provider",
+    "PackageName": "Microsoft.XboxIdentityProvider",
+    "Description": "Authentication service for Xbox",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Xbox TCUI",
+    "PackageName": "Microsoft.XboxTCUI",
+    "Description": "Xbox TCUI component",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Xbox Game Speech Window",
+    "PackageName": "Microsoft.XboxSpeechToTextOverlay",
+    "Description": "Speech-to-text service for Xbox",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Microsoft Family",
+    "PackageName": "Microsoft.Xbox.TCUI",
+    "Description": "Family safety and screen time app",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Get Started",
+    "PackageName": "Microsoft.Getstarted",
+    "Description": "Tips and introduction for Windows",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Mixed Reality Portal",
+    "PackageName": "Microsoft.MixedReality.Portal",
+    "Description": "Windows Mixed Reality app",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Skype",
+    "PackageName": "Microsoft.SkypeApp",
+    "Description": "Communication app",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Sticky Notes",
+    "PackageName": "Microsoft.MicrosoftStickyNotes",
+    "Description": "Note-taking app",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Maps",
+    "PackageName": "Microsoft.WindowsMaps",
+    "Description": "Maps and navigation app",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "3D Viewer",
+    "PackageName": "Microsoft.Microsoft3DViewer",
+    "Description": "3D modeling viewer",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Office Hub",
+    "PackageName": "Microsoft.MicrosoftOfficeHub",
+    "Description": "Office applications hub",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  },
+  {
+    "Name": "Your Phone",
+    "PackageName": "Microsoft.YourPhone",
+    "Description": "Phone companion app",
+    "Dependencies": [],
+    "ImpactLevel": "Low",
+    "IsCritical": false,
+    "MinOSVersion": null
+  }
+]

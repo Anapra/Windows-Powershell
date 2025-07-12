@@ -1,0 +1,25 @@
+**********************
+PowerShell transcript start
+Start time: 20250710232210
+Username: DESKTOP-00AMHI1\Winprows
+RunAs User: DESKTOP-00AMHI1\Winprows
+Configuration Name: 
+Machine: DESKTOP-00AMHI1 (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Program Files\PowerShell\7\pwsh.dll -NoLogo
+Process ID: 3516
+PSVersion: 7.5.2
+PSEdition: Core
+GitCommitId: 7.5.2
+OS: Microsoft Windows 10.0.26100
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1, 6.0, 7.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is C:\Users\Winprows\.config\powershell\log\Transcript_RegTweaks_20250710-232210.txt
+[2025-07-10 23:22:10] [Error] This script requires administrator privileges. Please run PowerShell as Administrator.
+**********************
+PowerShell transcript end
+End time: 20250710232210
+**********************

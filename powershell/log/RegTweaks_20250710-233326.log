@@ -1,0 +1,40 @@
+[2025-07-10 23:33:27] [Success] Loaded registry tweaks from C:\Users\Winprows\.config\powershell\RegTweaks.json
+[2025-07-10 23:33:27] [Info] === APPLYING REGISTRY TWEAKS ===
+[2025-07-10 23:33:27] [Info] Backed up registry key HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced to C:\ProgramData\RegTweaks\Backups\HKLM__SOFTWARE_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Disable sync provider notifications
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKLM__SOFTWARE_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Backed up registry key HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced to C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Show file extensions
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Backed up registry key HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced to C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Show hidden files
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Backed up registry key HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced to C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Set Explorer to open to This PC instead of Quick Access
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Backed up registry key HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer to C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Hide frequent folders in Quick Access
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Backed up registry key HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer to C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Hide recent files in Quick Access
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Backed up registry key HKCU:\Software\Microsoft\Windows\CurrentVersion\Search to C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Search_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Show search icon only in taskbar
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Search_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Backed up registry key HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced to C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Use small taskbar icons
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKCU__Software_Microsoft_Windows_CurrentVersion_Explorer_Advanced_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Backed up registry key HKLM:\SOFTWARE\Policies\Microsoft\Windows\DataCollection to C:\ProgramData\RegTweaks\Backups\HKLM__SOFTWARE_Policies_Microsoft_Windows_DataCollection_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Disable telemetry
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKLM__SOFTWARE_Policies_Microsoft_Windows_DataCollection_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Backed up registry key HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer to C:\ProgramData\RegTweaks\Backups\HKLM__SOFTWARE_Microsoft_Windows_CurrentVersion_Policies_Explorer_20250710233327.reg
+[2025-07-10 23:33:27] [Success] Applied: Disable automatic Windows updates
+[2025-07-10 23:33:27] [Info] Backup saved to: C:\ProgramData\RegTweaks\Backups\HKLM__SOFTWARE_Microsoft_Windows_CurrentVersion_Policies_Explorer_20250710233327.reg
+[2025-07-10 23:33:27] [Info] Registry tweaks: 1 succeeded, 9 failed
+[2025-07-10 23:33:27] [Info] Configuring default user registry...
+[2025-07-10 23:33:27] [Info] Backed up registry key HKU:\DefaultUser\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager to C:\ProgramData\RegTweaks\Backups\HKU__DefaultUser_Software_Microsoft_Windows_CurrentVersion_ContentDeliveryManager_20250710233327.reg
+[2025-07-10 23:33:27] [Error] Failed to apply Disable suggestions for default user: Cannot find drive. A drive with the name 'HKU' does not exist.
+[2025-07-10 23:33:27] [Success] Default user registry configuration completed
+[2025-07-10 23:33:27] [Warning] Some changes require a reboot to take effect.
+[2025-07-10 23:33:30] [Info] Initiating system reboot...
+[2025-07-10 23:33:30] [Info] Operation completed. Log saved to C:\Users\Winprows\.config\powershell\log\RegTweaks_20250710-233326.log
