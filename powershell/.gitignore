@@ -1,0 +1,11 @@
+# Ignore personal settings
+settings.ps1
+
+# Ignore logs and backups
+*.log
+/backup/
+/log/
+
+# Editor files
+.vscode/
+*.swp
