@@ -1,3 +1,7 @@
+<#
+.SYNOPSIS
+    Utility functions for PowerShell profile. Navigation, backup/restore, and cloud helpers.
+#>
 # Utility functions for PowerShell profile
 function .. { Set-Location .. }
 function ... { Set-Location ..\.. }

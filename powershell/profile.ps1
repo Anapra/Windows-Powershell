@@ -1,3 +1,7 @@
+<#
+.SYNOPSIS
+    Main PowerShell profile for Windows. Modular, secure, and cloud-ready. Loads aliases, functions, settings, and customizes the shell environment.
+#>
 # Optimized PowerShell 7.5.2 Profile
 # Performance-first configuration with cloud-ready tools
 

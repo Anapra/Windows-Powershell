@@ -1,3 +1,7 @@
+<!--
+.SYNOPSIS
+    Comprehensive setup and troubleshooting guide for Windows PowerShell environment, including best practices and cloud integration.
+-->
 # **PowerShell & Package Management Setup Guide**  
 *A comprehensive walkthrough for optimizing your Windows environment*
 ---
